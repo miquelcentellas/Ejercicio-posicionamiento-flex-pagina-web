@@ -1,5 +1,17 @@
 	html {
 		font-family: arial;
 		font-size: 12px;
-		background-color: red;
+		background-color: grey;
 	}
+
+    header {
+        display: flex;
+    }
+
+    ul {
+        text-decoration: none;
+    }
+
+    li {
+        text-decoration: none;
+    }
