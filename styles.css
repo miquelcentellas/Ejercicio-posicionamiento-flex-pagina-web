@@ -1,17 +1,21 @@
 	html {
 		font-family: arial;
 		font-size: 12px;
-		background-color: grey;
+		background-color: ;
 	}
 
     header {
-        display: flex;
+        padding: 0px;
     }
 
     div {
-        display: flex;
+
     }
 
+    nav {
+        background-color: aquamarine;
+        padding: 1px;
+    }
 
     h1 {
         text-align: center;
