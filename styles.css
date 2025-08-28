@@ -11,7 +11,7 @@
     }
 
     div {
-
+        display: flex;
     }
 
     nav {
@@ -20,7 +20,7 @@
     }
 
     h1 {
-        text-align: center;
+        justify-content: center;
     }
 
     ul {
@@ -50,3 +50,10 @@
         object-position: top;
         margin: 0px;
        }
+
+    img.icono {
+        display: inline;
+        height: 50px;
+        width: 50px;
+        
+    }
